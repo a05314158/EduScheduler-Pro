@@ -1,0 +1,32 @@
+{
+  "name": "Учебное заведение",
+  "use_weekends": false,
+  "max_lessons_per_day_per_group": 3,
+  "max_gap_periods": 1,
+  "shift_period_map": {
+    "0": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "1": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "2": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "shift_allowed_periods": {},
+  "shift_overflow_allowed": false,
+  "shift_overflow_penalty_weight": 0
+}

@@ -1,0 +1,940 @@
+{
+  "Авдеев Я. В.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Андриянова В. К.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Ащеулова А. С.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Бабарыкин В. О.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Баникевич Н. Г.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Батырев С. М.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Веремеев С. М.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Веремеева И. В.": {
+    "forbidden": {
+      "days": [],
+      "periods": [
+        0
+      ],
+      "comment": "Никогда первую пару"
+    },
+    "unwanted": {
+      "days": [
+        4
+      ],
+      "periods": [],
+      "penalty_weight": 15,
+      "comment": "Пятница нежелательна"
+    },
+    "preferred": {
+      "days": [
+        0,
+        1,
+        2
+      ],
+      "periods": [
+        1,
+        2
+      ],
+      "bonus_weight": 3,
+      "comment": "Пн-Вт-Ср"
+    }
+  },
+  "Веремеева И.В.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Гараджа М. П.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Гараджа М.П.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Гейдаров Н. В.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Гладышев Ю. С.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Глухов К. В.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Горевая У. А.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Дубровина Ю. М.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Дугинова Е. Б.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Жигалова О. А.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Засуха Н. Н.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Кабачевская Е. В.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Карнадуд О. С.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Карташова Е. Э.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Кошкина Г. К.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Немов В. Н.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Николаева Е. А.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Николаева Е. В.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Паскарь Д. А.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Паскарь И. Н.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Прейс Е. В.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Пучков С. В.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Сакнэ А. О.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Сакнэ П. Р.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Сатучин Р. Р.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Селиванова А. А.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Селиванова А.А.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Сергеев С. С.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Сиводедова М. В.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Синев В. А.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Тайлаков А. А.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Тихомирова А. В.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Устюжанина А. С.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Федорова Т. П.": {
+    "forbidden": {
+      "days": [
+        3
+      ],
+      "periods": [],
+      "comment": "Не работает вт и чт"
+    },
+    "unwanted": {
+      "days": [
+        1
+      ],
+      "periods": [
+        4
+      ],
+      "penalty_weight": 500,
+      "comment": "Последнюю пару не хочет"
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Филь Е. С.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Хакимов П. Е.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [
+        0
+      ],
+      "penalty_weight": 20,
+      "comment": "Не любит первую пару"
+    },
+    "preferred": {
+      "days": [
+        1,
+        2,
+        3
+      ],
+      "periods": [
+        1,
+        2
+      ],
+      "bonus_weight": 5,
+      "comment": "Вт-Ср-Чт"
+    }
+  },
+  "Хакимов П.Е.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Чуешева Н. А.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Шидловская Д. С.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  },
+  "Шуликов К. С.": {
+    "forbidden": {
+      "days": [],
+      "periods": [],
+      "comment": ""
+    },
+    "unwanted": {
+      "days": [],
+      "periods": [],
+      "penalty_weight": 10,
+      "comment": ""
+    },
+    "preferred": {
+      "days": [],
+      "periods": [],
+      "bonus_weight": 0,
+      "comment": ""
+    }
+  }
+}
